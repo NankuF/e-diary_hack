@@ -43,7 +43,6 @@ def create_commendation(full_name):
     Добавляет похвалу от учителя.
 
     :param full_name: фамилия, имя и отчество.
-    :param lesson_name: название урока.
     """
     texts = [
         'Молодец!',
